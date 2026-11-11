@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "glancemark" do
-  version "0.1.0"
-  sha256 "1b2263e666c2187ef55e813bc640723d983d5c37c9f8db197d8f7d012ab9e1cc"
+  version "0.1.1"
+  sha256 "b4876dfdb59c961423822953b7ed601d235f64b862f9002884f9c8f1ad41ca33"
 
   url "https://github.com/Kian-hdr/glancemark/releases/download/v#{version}/Glancemark_#{version}_arm64.dmg"
   name "Glancemark"

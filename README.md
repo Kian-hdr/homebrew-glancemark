@@ -1,4 +1,4 @@
-# Glancemark Homebrew tap
+<p align="center"><strong>Glancemark Homebrew tap</strong></p>
 
 Install Glancemark on Apple Silicon Macs running macOS 27 or later.
 

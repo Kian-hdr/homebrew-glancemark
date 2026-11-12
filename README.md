@@ -2,7 +2,13 @@
 
 Install Glancemark on Apple Silicon Macs running macOS 27 or later.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Kian-hdr/glancemark/93df7013372fea2b0bc27313a558dd936f5344ea/docs/assets/Glancemark.png" width="96" alt="Glancemark app icon"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kian-hdr/glancemark/52f6fa5c4f09da4ca14a61ef1909903039f4bdfb/docs/assets/App_Icon_Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kian-hdr/glancemark/52f6fa5c4f09da4ca14a61ef1909903039f4bdfb/docs/assets/App_Icon_Default.png">
+    <img src="https://raw.githubusercontent.com/Kian-hdr/glancemark/52f6fa5c4f09da4ca14a61ef1909903039f4bdfb/docs/assets/App_Icon_Default.png" width="96" alt="Glancemark app icon">
+  </picture>
+</p>
 
 ```sh
 brew install --cask Kian-hdr/glancemark/glancemark
